@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Talk at International Society for Behavioural Ecology	</title>
+	<atom:link href="/talk-at-international-society-for-behavioural-ecology/feed" rel="self" type="application/rss+xml" />
+	<link>/talk-at-international-society-for-behavioural-ecology</link>
+	<description>Research behaviour cognition open-science</description>
+	<lastBuildDate>Thu, 21 Jul 2022 08:43:25 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+</channel>
+</rss>

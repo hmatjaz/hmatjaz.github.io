@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Poster Archives - Many Birds Projects</title>
+	<atom:link href="/category/poster/feed" rel="self" type="application/rss+xml" />
+	<link>/category/poster</link>
+	<description>Research behaviour cognition open-science</description>
+	<lastBuildDate>Thu, 21 Jul 2022 08:43:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/11/cropped-manybird_logo_seul_fond_transparent-32x32.png</url>
+	<title>Poster Archives - Many Birds Projects</title>
+	<link>/category/poster</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Talk at International Society for Behavioural Ecology</title>
+		<link>/talk-at-international-society-for-behavioural-ecology</link>
+					<comments>/talk-at-international-society-for-behavioural-ecology#respond</comments>
+		
+		<dc:creator><![CDATA[manybirds_16549595]]></dc:creator>
+		<pubDate>Wed, 29 Jun 2022 13:53:30 +0000</pubDate>
+				<category><![CDATA[Poster]]></category>
+		<guid isPermaLink="false">/?p=962</guid>
+
+					<description><![CDATA[<p>Date : August 2022 Location: Sweden/ Virtual Speaker: Rachael Miller Subject: ManyBirds: an Open Science collaborative approach to avian cognition and behaviour research</p>
+<p>The post <a href="/talk-at-international-society-for-behavioural-ecology">Talk at International Society for Behavioural Ecology</a> appeared first on <a href="/">Many Birds Projects</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="962" class="elementor elementor-962">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-64c94db elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="64c94db" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-767417d" data-id="767417d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-40b4a8a elementor-widget elementor-widget-text-editor" data-id="40b4a8a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.17.0 - 01-11-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p><strong>Date :</strong> August 2022</p><p><strong>Location</strong>: Sweden/ Virtual</p><p><strong>Speaker:</strong> Rachael Miller</p><p><strong>Subject</strong>: ManyBirds: an Open Science collaborative approach to avian cognition and behaviour research</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		<p>The post <a href="/talk-at-international-society-for-behavioural-ecology">Talk at International Society for Behavioural Ecology</a> appeared first on <a href="/">Many Birds Projects</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/talk-at-international-society-for-behavioural-ecology/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
